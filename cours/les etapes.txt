@@ -1,0 +1,6 @@
+//creation de projet
+1- flutter create firstApp
+2-cd firstapp 
+3- code .
+// run the app 
+4-flutter run ou bien f5
